@@ -1,8 +1,24 @@
 body {
     margin-top: 80px;
     text-align: center;
+        background: #12171C;
+    color: white;
+
 }
 .form-group {
     width: 300px;
-    margin-left: 150px;
+    margin-left: 75px;
+}
+button {
+    margin-left: 75px;
+}
+.error {
+    color: red;
+}
+.valid {
+    color: #ff7f11;
+}
+.btn {
+    background: #ff7f11;
+    color: black;
 }
